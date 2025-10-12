@@ -6,3 +6,8 @@
 - Minha parte favorita da área é GameDev 🎮 (any game development company, hire me one day! pleaseee! 🥺)
 
 ## Linguagens Favoritinhas: 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelDevelop&border_radius=15.0&theme=github_dark&show_icons=true&locale=pt-br&custom_title=Estatísticas%20do%20perfil&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDevelo&layout=compact&locale=pt-br&theme=github_dark&border_radius=15.0"/>
+</div>
