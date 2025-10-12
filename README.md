@@ -7,7 +7,7 @@
 
 ## Linguagens Favoritinhas: 
 
-![Backend](https://skillicons.dev/icons?i=javascript, python, java)
+![Backend](https://skillicons.dev/icons?i=javascript,python,java)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelDevelop&border_radius=15.0&theme=github_dark&show_icons=true&locale=pt-br&custom_title=Estatísticas%20do%20perfil&rank_icon=github"/>
 </div>
