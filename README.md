@@ -7,10 +7,10 @@
 
 ## Linguagens Favoritinhas: 
 
-![Backend](https://skillicons.dev/icons?i=html,css,javascript,java)
+![Linguagens](https://skillicons.dev/icons?i=html,css,javascript,java)
 
 ## Já tive alguma experiência com: 
-![Backend](https://skillicons.dev/icons?i=c,python,godot,php)
+![Mais Linguagens](https://skillicons.dev/icons?i=c,python,godot,php)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelDevelop&border_radius=15.0&theme=github_dark&show_icons=true&locale=pt-br&custom_title=Estatísticas%20do%20perfil&rank_icon=github"/>
