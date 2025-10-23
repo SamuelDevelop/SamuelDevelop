@@ -1,5 +1,5 @@
 ## Bem Vindos ao Meu GitHub! 🎉
-# Prazer! Eu sou o Samuel 👨🏾
+# Prazer! Eu sou o Samuel 
 
 - Atualmente tenho 17 anos
 - Estou estudando programação 🖥️ no cuso técnico em Informática no cefet-MG
