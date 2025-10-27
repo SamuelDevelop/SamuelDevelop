@@ -1,4 +1,4 @@
-## Bem Vindos ao Meu GitHub! 🎉
+## Bem Vindo ao Meu GitHub! 🎉
 # Prazer! Eu sou o Samuel 
 
 - Atualmente tenho 17 anos
