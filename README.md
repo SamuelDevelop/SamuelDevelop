@@ -4,6 +4,7 @@
 - Atualmente tenho 17 anos
 - Estou estudando programação 🖥️ no cuso técnico em Informática no cefet-MG
 - Minha parte favorita da área é GameDev 🎮 (any game development company, hire me one day! pleaseee! 🥺)
+- Minha conta secundária: https://github.com/samuscadev
 - Meus Projetinhos de qualidade duvidosa: https://samuscadev.github.io
 
 ## Linguagens Favoritinhas: 
