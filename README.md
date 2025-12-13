@@ -3,7 +3,7 @@
 # Samuel Soares 
 ### Estudante de Informática - CEFET MG
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&&center=true&vCenter=true&width=500&lines=Estudando+Programação;Sonhando+Um+Jogo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&&center=true&vCenter=true&width=500&lines=Estudando+Programação;Apaixonado+por+Códigos+e+GameDev" />
 
 
 </div>
