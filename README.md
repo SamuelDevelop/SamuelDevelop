@@ -4,6 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&&center=true&vCenter=true&width=500&lines=Seja+Bem+Vindo!;Estudando+Programação...;Apaixonado+por+Códigos+e+GameDev;" />
 
+<br>
+<img src="images/legolas.gif">
+
 <div align="left">
   - Atualmente tenho 17 anos <br><br>
   - 🖥️ Estou estudando programação através do Curso Técnico em Informática no CEFET-MG <br><br>
