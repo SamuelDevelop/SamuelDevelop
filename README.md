@@ -11,7 +11,7 @@
 > Brasileiro, <br>
 > Atualmente tenho 17 anos, <br>
 > cursando Curso Técnico em Informática no CEFET-MG | 3° Ano <br>
-> <a href="https://samueldevelop.github.io">Site Pessoal</a> <br>
+> <a href="https://samuel-soares-dos-santos.vercel.app">Site Pessoal</a> <br>
   
 </div>
   
