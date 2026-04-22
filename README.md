@@ -2,16 +2,11 @@
 
 # Samuel Soares Dos Santos
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&&center=true&vCenter=true&width=500&lines=Seja+Bem+Vindo!;Estudando+Programação...;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&&center=true&vCenter=true&width=500&lines=Hello+World!;Estudando+Programação...;" />
 
 <div align="left">
   
-## Um poquinho sobre mim...
-
-> Brasileiro, <br>
-> Atualmente tenho 17 anos, <br>
-> cursando Curso Técnico em Informática no CEFET-MG | 3° Ano <br>
-> <a href="https://samuel-soares-dos-santos.vercel.app">Site Pessoal</a> <br>
+<a href="https://samuel-soares-dos-santos.vercel.app">Site Pessoal</a> <br>
   
 </div>
   
@@ -86,12 +81,6 @@
   <p>Deixo para uma reflexão final: <i>Como poderia o ato de legolas correr contribuir para o mundo da programção?</i></p>
   <p>Eu sinceramente não sei mas não há nenhum motivo do por que não deixa-lo aqui.</p>
 </div>
-
-> Aviso previo de projetos de qualidade duvidosa nessa conta (bem duvidosa).
-> 
-> Por que provavelmente foi escrito de forma incorreta.
-
-
 
 
 
