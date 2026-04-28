@@ -27,7 +27,7 @@
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
   <p>
-    São as tecnologias que mais utilizei durante meu processo de aprendizado, que julgo possuir um maior conhecimento comparadas as demais e muito     dificilmente deixarei de usar.
+    São as tecnologias que mais utilizei durante meu processo de aprendizado, que julgo possuir um maior conhecimento consolidado comparado as demais e muito     dificilmente deixarei de usar.
   </p>
   <div align="center">
     
